@@ -1,1 +1,1 @@
-# html_ilk_calisma
+# Html ile oluşturulan ilk web sayfası tasarlanmıştır.
